@@ -1,5 +1,7 @@
 # Fantastic Robot - Machine Learning Pipeline
 
+Collab Notebook link - https://colab.research.google.com/drive/1u-apzeIQqv8bqHk-lgZsw3SmAt3yTDuW?usp=sharing
+
 This project implements a complete machine learning pipeline using a Jupyter Notebook. It covers data loading, exploratory data analysis (EDA), data cleaning, preprocessing, model training, ensemble methods, and submission generation.
 
 ## 1. Data Loading
